@@ -27,14 +27,11 @@ El Juego del Ahorcado es un juego de adivinanzas donde el jugador debe descubrir
 
 ### Instalación y Ejecución
 
-1. **Clona o descarga el archivo:**
+1. **Clona el repositorio:**
 
    ```bash
    # Si tienes git instalado
    git clone <url-del-repositorio>
-
-   # O simplemente descarga el archivo main.py
-   ```
 
 2. **Navega al directorio del juego:**
 
@@ -58,9 +55,9 @@ El Juego del Ahorcado es un juego de adivinanzas donde el jugador debe descubrir
 
 1. **Selecciona la Dificultad:**
 
-   - Presiona `F` para Fácil
-   - Presiona `M` para Medio
-   - Presiona `D` para Difícil
+   - Escribe `F` para Fácil
+   - Escribe `M` para Medio
+   - Escribe `D` para Difícil
 
 2. **Adivina las Letras:**
 
